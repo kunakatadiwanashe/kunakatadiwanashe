@@ -2,12 +2,16 @@
 👋 Hello there! I'm Tadiwanashe Kunaka, a passionate Frontend Developer with a keen eye for design and a flair for crafting seamless, user-centric web experiences. My comprehensive toolkit includes cutting-edge technologies and frameworks, coupled with a robust set of UI/UX design skills.
 
 🚀 Skills:
-Languages: JavaScript, Node.js
-Libraries & Frameworks: React, Next.js
-Styling: SASS, CSS and Tailwind CSS
-Version Control: Git
-Mobile Development: React Native
-UI/UX Design: Figma, Adobe XD, Adobe Photoshop
+•	Languages: JavaScript, Node.js
+•	Libraries & Frameworks: React, Next.js
+•	Styling: SASS, CSS and Tailwind CSS
+•	Version Control: Git
+•	Mobile Development: React Native
+•	UI/UX Design: Figma, Adobe XD, Adobe Photoshop
+•	Content Management: WordPress
+•	Word Press Theme Development: Divi
+
+
 
 💻 Tech Enthusiast:
 I'm deeply invested in the world of web development and UI/UX design. Staying abreast of the latest trends and technologies, my commitment to ongoing learning allows me to deliver solutions that seamlessly blend aesthetics with functionality.
@@ -24,8 +28,18 @@ In addition to web development, I extend my expertise to mobile platforms using 
 🎨 Design Maven:
 I bring a creative touch to every project with a background in UI/UX design. Proficient in Figma, Adobe XD, and Adobe Photoshop, I transform concepts into visually stunning and intuitive interfaces that captivate users.
 
+🌐 WordPress Wizard:
+I'm well-versed in WordPress development, including theme customization and content management. My proficiency extends to WordPress Divi, allowing me to create dynamic and visually impressive websites with ease.
+
 📚 Eager Learner:
 The world of technology is ever-evolving, and I see every project as an opportunity to learn and grow. I embrace challenges as a chance to expand my skill set and deliver solutions that push the boundaries of what's possible.
 
-🚀 Let's Build Something Amazing:
+🚀 Lets Build Something Amazing:
 If you're looking for a frontend developer who is not only skilled but also passionate about creating digital experiences that leave a lasting impression, let's connect! I'm ready to bring your ideas to life and contribute to the success of your projects.
+
+
+
+
+
+
+
